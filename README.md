@@ -1,4 +1,4 @@
-readcarlicenseboard" 
+readcarlicenseboard
 
 readcarlicenseboard0.py
 numberboard.jpg  : 1237 4560 / 123가4568
